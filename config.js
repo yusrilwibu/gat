@@ -4,10 +4,10 @@ import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+1 760-891-4335'],
-  ['+62 852-7282-1627'],
-  ['17608914335', 'Papah-Chan', true],
-  ['6285272821627', 'Moca', true]
+  ['+62 81376490773'],
+  ['+62 81275274328'],
+  ['6281376490773', 'Yusril_ganteng', true],
+  ['6281275274328', 'yusril', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
