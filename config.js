@@ -13,7 +13,7 @@ global.owner = [
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.lolkey = 'YourApikey'
-global.xkey = 'YourApikey'
+global.xkey = 'nyyxz-bot'
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
